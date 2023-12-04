@@ -4,7 +4,7 @@ function App() {
 
 
   return (
-    <div className="bg-slate-900 w-[100vw] h-[100vh]">
+    <div className="bg-slate-900 w-screen h-screen ">
       <Header/>
     </div>
   )
